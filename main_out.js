@@ -5,7 +5,7 @@
      * Example: 127.0.0.1:443
      * 
      */
-    var CONNECTION_URL = "149.202.234.244:443";
+    var CONNECTION_URL = "127.0.0.1:443";
     /**
      * Enter path to the skin image folder
      * To take skins from the official server enter: "http://agar.io/skins/"
