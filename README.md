@@ -1,2 +1,0 @@
-# troxipagar
-Server By Troxip
